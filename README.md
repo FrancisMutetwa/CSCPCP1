@@ -35,13 +35,6 @@ Before you begin, make sure you have the following installed on your system:
 
 5. The program will execute the arguments entered in the makefile when you run make run
 
-## Contributing
-If you'd like to contribute to this project, follow these steps:
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix: `git checkout -b feature-name`
-3. Make your modifications and commit them: `git commit -am 'Add some feature'`
-4. Push the branch to your forked repository: `git push origin feature-name`
-5. Create a Pull Request in the original repository.
 
 ## License
 This project is licensed under the [UCT](LICENSE).
